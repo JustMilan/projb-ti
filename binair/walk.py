@@ -31,6 +31,5 @@ while True:
     leds(led_pins, 16, delay)
     leds(led_pins, 8, delay)
     leds(led_pins, 4, delay)
-    leds(led_pins, 2, delay)
 
 # 10 min
