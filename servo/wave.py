@@ -37,3 +37,5 @@ while True:
         servo_pulse(servo, i)
     for i in range(100, 0, -1):
         servo_pulse(servo, i)
+
+# 15 min
